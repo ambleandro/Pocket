@@ -1,0 +1,18 @@
+[
+  {
+    "value": "tomar água",
+    "checked": true
+  },
+  {
+    "value": "andar",
+    "checked": false
+  },
+  {
+    "value": "ler",
+    "checked": false
+  },
+  {
+    "value": "tocar violão",
+    "checked": false
+  }
+]
